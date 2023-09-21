@@ -1,0 +1,25 @@
+.divTarefas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 30px;
+    
+}
+
+
+
+.material-symbols-outlined{
+    color: $vermelho;
+    cursor: pointer;
+}
+.divTitulo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.divTitulo .material-symbols-outlined{
+    color: $azul-escuro;
+    padding-top: 37px;
+    font-size: 40px;
+    
+}
